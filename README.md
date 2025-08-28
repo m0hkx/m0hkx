@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a passionate developer always eager to learn and creat
 ## 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/m0hkx/)
-- **Twitter**: @m0hkx
+- [Twitter](https://x.com/m0hkv)
 
 ---
 
