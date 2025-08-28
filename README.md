@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mohammad 👋
 
-<!--
-**m0hkx/m0hkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate developer always eager to learn and create.
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**:  
+  - C++, Javascript, Typescript, Lua
+  
+- **Web Development**:  
+  - Frontend: React, Tailwind CSS
+  - Backend: Node.JS
+
+- **Databases**:  
+  - SQL, MongoDB
+
+- **Tools & Technologies**:  
+  - Git, Docker, Vite, Webpack, VS Code
+
+## 📈 GitHub Stats
+
+![Issac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0hkx&show_icons=true&hide_title=true)
+
+## 🌱 Currently Learning
+
+- Python
+- ExpressJS
+
+## 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/m0hkx/)
+- **Twitter**: @m0hkx
+
+---
+
+Thanks for visiting my profile! Let's connect and collaborate. 🤝
