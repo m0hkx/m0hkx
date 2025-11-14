@@ -25,6 +25,7 @@ Welcome to my GitHub! I'm a passionate developer always eager to learn and creat
 
 - Python
 - ExpressJS
+- Graphic Design
 
 ## 📫 How to reach me:
 
