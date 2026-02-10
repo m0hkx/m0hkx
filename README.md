@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate developer always eager to learn and creat
 
 ## 📈 GitHub Stats
 
-![Issac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0hkx&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m0hkx&show_icons=true&hide_title=true)
 
 ## 🌱 Currently Learning
 
