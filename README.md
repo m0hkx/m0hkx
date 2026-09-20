@@ -68,6 +68,7 @@ A full-stack property management platform built with a modern TypeScript ecosyst
 
 - Software Architecture
 - REST APIs
+- gRPC 
 - Authentication & Authorization
 - Database Design
 - Caching
