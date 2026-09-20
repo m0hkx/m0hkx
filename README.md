@@ -55,7 +55,7 @@ A full-stack property management platform built with a modern TypeScript ecosyst
 
 `React` `React Router` `Zustand` `Tailwind` `Express` `MongoDB` `Vitest`
 
-[🔗 Repository](https://github.com/m0hkx/Propora) · [🌐 Live Demo](#)
+[🔗 Repository](https://github.com/m0hkx/Propora) · [🌐 Live Demo](https://propora-frontend.netlify.app/)
 
 </td>
 </tr>
