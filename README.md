@@ -59,6 +59,25 @@ A full-stack property management platform built with a modern TypeScript ecosyst
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### 🏠 Inspectra
+
+**Facility Inspection & Compliance SaaS**
+
+A full-stack SaaS helps companies schedule equipment inspections.
+
+**Stack**
+
+`Next.js` `Tailwind` `Zod` `Node.js` `NestJS` `PostgreSQL` `Prisma` `Jest`
+
+[🔗 Repository](https://github.com/m0hkx/Inspectra) · [🌐 Live Demo]()
+
+</td>
+</tr>
+
 </table>
 
 ---
