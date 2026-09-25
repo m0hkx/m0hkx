@@ -61,7 +61,7 @@ A full-stack property management platform built with a modern TypeScript ecosyst
 
 <td width="50%">
 
-### 🏠 Inspectra
+### 📃 Inspectra
 
 **Facility Inspection & Compliance SaaS**
 
