@@ -58,9 +58,7 @@ A full-stack property management platform built with a modern TypeScript ecosyst
 [🔗 Repository](https://github.com/m0hkx/Propora) · [🌐 Live Demo](https://propora-frontend.netlify.app/)
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 ### 🏠 Inspectra
