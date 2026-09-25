@@ -30,7 +30,7 @@ backend, databases, testing, DevOps, and distributed systems.
 ### Testing
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vitest,playwright,jest" />
+  <img src="https://skillicons.dev/icons?i=vitest,jest" />
 </p>
 
 ### APIs & Architecture
