@@ -12,19 +12,19 @@ backend, databases, testing, DevOps, and distributed systems.
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,zustand" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,zod" />
 </p>
 
 ### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma,redis,docker,aws" />
 </p>
 
 ### Testing
