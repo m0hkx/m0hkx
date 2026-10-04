@@ -55,7 +55,7 @@ A full-stack property management platform built with a modern TypeScript ecosyst
 
 `React` `React Router` `Zustand` `Tailwind` `Express` `MongoDB` `Vitest`
 
-[🔗 Repository](https://github.com/m0hkx/Propora) · [🌐 Live Demo](https://propora-frontend.netlify.app/)
+[🔗 Repository](https://github.com/m0hkx/Propora) · [🌐 Live Demo](https://main.d2ms90ogxep6z4.amplifyapp.com/)
 
 </td>
 
@@ -71,7 +71,7 @@ A full-stack SaaS helps companies schedule equipment inspections.
 
 `Next.js` `Tailwind` `Zod` `Node.js` `NestJS` `PostgreSQL` `Prisma` `Jest`
 
-[🔗 Repository](https://github.com/m0hkx/Inspectra) · [🌐 Live Demo]()
+[🔗 Repository](https://github.com/m0hkx/Inspectra) · [🌐 Live Demo](https://main.drpuz51gvaz2e.amplifyapp.com/)
 
 </td>
 </tr>
