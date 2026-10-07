@@ -76,6 +76,24 @@ A full-stack SaaS helps companies schedule equipment inspections.
 </td>
 </tr>
 
+<tr>
+<td width="50%">
+
+### ⏱️ ShiftFlow
+
+**Employee Scheduling & Task Management**
+
+A small SaaS for businesses that need to organize **employees, shifts, and daily tasks**.
+
+**Stack**
+
+`Angular` `Tailwind` `C#` `ASP.NET` `SQL Server`
+
+[🔗 Repository](https://github.com/m0hkx/ShiftFlow) · [🌐 Live Demo](https://google.com/)
+
+</td>
+</tr>
+
 </table>
 
 ---
