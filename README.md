@@ -118,9 +118,9 @@ A small SaaS for businesses that need to organize **employees, shifts, and daily
 
 # 📚 Currently Learning
 
-- NestJS
-- NextJS
-- Supabase
+- C#
+- ASP.NET
+- SQL Server
 
 ---
 
