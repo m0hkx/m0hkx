@@ -18,7 +18,7 @@ backend, databases, testing, DevOps, and distributed systems.
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,zod,csharp" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,zod,cs,dotnet" />
 </p>
 
 ### Databases & Infrastructure
